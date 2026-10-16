@@ -1,3 +1,8 @@
+---
+title: "Política de Privacidade — Veritas Bot"
+permalink: /privacidade/
+---
+
 # Política de Privacidade — Veritas Bot
 
 Última atualização: 16 de outubro de 2026
