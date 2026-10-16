@@ -1,8 +1,11 @@
 ---
-title: Termos de Serviço
+
+---
+title: "Termos de Serviço — Veritas Bot"
+permalink: /termos/
 ---
 
-# Termos de Serviço — veritas bot
+# Termos de Serviço — Veritas Bot
 
 **Última atualização:** 16 de outubro de 2026
 
