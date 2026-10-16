@@ -1,8 +1,9 @@
 ---
-
----
 title: "Termos de Serviço — Veritas Bot"
 permalink: /termos/
+---
+
+# Termos de Serviço — Veritas Bot
 ---
 
 # Termos de Serviço — Veritas Bot
